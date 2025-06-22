@@ -16,7 +16,10 @@ timezone: Asia/Seoul
 
 title: Jae Yoon Lee # the main title
 
-tagline: Korea University # it will display as the subtitle
+tagline:
+  Ph.D. student<br>
+  Computer Science<br>
+  Korea University # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Ph.D. student in Computer Science and Engineering at Korea University (Advisor: Prof. Sung Woo Chung)

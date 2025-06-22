@@ -1,8 +1,29 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+layout: page
+title: About
+icon: fas fa-user
 order: 2
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 👋 Hi!
+
+My name is **Jae Yoon Lee**, a Ph.D. student in Computer Science and Engineering at Korea University.
+
+<!-- TODO -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

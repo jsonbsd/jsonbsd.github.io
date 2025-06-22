@@ -1,4 +1,28 @@
 [
+  {
+    "title": "One special session paper accepted to ISLPED 2025!",
+    "url": "/posts/ISLPED-special-session/",
+    "categories": "News, Publications",
+    "tags": "conference",
+    "date": "2025-06-16 09:57:16 +0900",
+    "content": "Our paper &quot;Thermal Challenges and Opportunities for Off-the-shelf 3D-stacked CPUs&quot; has been accepted as a special session paper to ISLPED 2025!"
+  },
+  {
+    "title": "One paper accepted to ISLPED 2025!",
+    "url": "/posts/ISLPED-SHIFT-ECC/",
+    "categories": "News, Publications",
+    "tags": "conference",
+    "date": "2025-05-19 18:15:57 +0900",
+    "content": "Our paper &quot;SHIFT ECC: A Value Converting HBM ECC Approach for Refresh Energy Efficient Integer Quantized DNN Inference&quot; has been accepted to ISLPED 2025!"
+  },
+  {
+    "title": "One paper accepted to ITC-CSCC 2024!",
+    "url": "/posts/ITC-CSCC/",
+    "categories": "News, Publications",
+    "tags": "conference",
+    "date": "2024-05-15 17:01:35 +0900",
+    "content": "Our paper &quot;Thermal Simulation of ML Applications on a Commercial DRAM-based PIM&quot; has been accepted to ITC-CSCC 2024!"
+  }
   
 ]
 
